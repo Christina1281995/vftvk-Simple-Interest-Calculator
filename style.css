@@ -1,4 +1,35 @@
-body {background-color:tan;}
-h1{color:green;}
+body{
+    background-color:black;
+    font-family:arial;
+    color:white
+}
 
+h1{
+    color:grey;
+    font-family:verdana
+}
 
+p, #rate_val, label, footer{
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+.maindiv{
+    background:white;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mytable{
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing:7px;
+}
+
+.highlight {
+    background-color: yellow;
+  }
